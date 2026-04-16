@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rename Thread"
+  short_description: "Rename the active VS Code Codex thread."
+  default_prompt: "Use $rename-thread to rename this thread."
