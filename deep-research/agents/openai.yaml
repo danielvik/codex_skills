@@ -1,0 +1,3 @@
+display_name: Deep Research
+short_description: Rigorous academic research, literature review, fact-checking, and systematic review workflows.
+default_prompt: Use the deep-research skill to scope the research question, select the right mode, verify sources, synthesize evidence, and produce a structured research output.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Memory"
+  short_description: "Compile repo docs into an interlinked memory_bank."
+  default_prompt: "Use /build-memory to create or refresh a markdown-only memory_bank from the repository documents."

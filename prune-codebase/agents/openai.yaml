@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Prune Codebase
+  short_description: Prune repos using schematic-driven, non-destructive cleanup.
+  default_prompt: Build an execution schematic, move non-required files into pruned_objects with validation after each move, then refresh requirements.txt and README.md.

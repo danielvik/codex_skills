@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thread Summarizer"
+  short_description: "Summarize Codex threads into codex_doc."
+  default_prompt: "Use $thread-summarizer to summarize this thread into codex_doc."

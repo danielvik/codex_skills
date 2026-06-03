@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Instructions"
+  short_description: "Read repo instructions before acting"
+  default_prompt: "Use /read_instructions ($read-instructions) to read codex_doc/instructions.md and follow it for this task."
