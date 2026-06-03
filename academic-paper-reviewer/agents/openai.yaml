@@ -1,0 +1,3 @@
+display_name: Academic Paper Reviewer
+short_description: Simulate multi-perspective peer review and editorial decisions for manuscripts.
+default_prompt: Use the academic-paper-reviewer skill to configure reviewers, run the selected review mode, produce independent reports, and synthesize an editorial decision and revision roadmap.
